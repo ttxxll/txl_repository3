@@ -1,0 +1,5 @@
+0:0:0:0:0:0:0:1 - - [24/Jun/2020:10:02:19 +0800] "GET /day0623_PeanutWiFi_web HTTP/1.1" 302 - http-bio-8888-exec-1 0
+0:0:0:0:0:0:0:1 - - [24/Jun/2020:10:02:19 +0800] "GET /day0623_PeanutWiFi_web/ HTTP/1.1" 302 - http-bio-8888-exec-3 112
+0:0:0:0:0:0:0:1 - - [24/Jun/2020:10:02:20 +0800] "GET /day0623_PeanutWiFi_web/login.jsp HTTP/1.1" 200 2714 http-bio-8888-exec-4 1509
+0:0:0:0:0:0:0:1 - - [24/Jun/2020:10:02:26 +0800] "POST /day0623_PeanutWiFi_web/login.do HTTP/1.1" 200 13996 http-bio-8888-exec-5 1565
+0:0:0:0:0:0:0:1 - - [24/Jun/2020:10:02:29 +0800] "GET /day0623_PeanutWiFi_web/user/findAll.do HTTP/1.1" 200 16696 http-bio-8888-exec-6 472

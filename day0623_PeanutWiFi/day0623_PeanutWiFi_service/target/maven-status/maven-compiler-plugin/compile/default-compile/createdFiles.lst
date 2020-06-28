@@ -1,0 +1,4 @@
+com\javasm\peanutwifi\service\impl\UserInfoServiceImpl.class
+com\javasm\peanutwifi\service\UserInfoService.class
+com\javasm\peanutwifi\service\impl\RoleServiceImpl.class
+com\javasm\peanutwifi\service\RoleService.class
